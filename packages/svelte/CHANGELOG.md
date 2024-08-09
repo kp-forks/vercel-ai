@@ -1,5 +1,19 @@
 # @ai-sdk/svelte
 
+## 0.0.33
+
+### Patch Changes
+
+- @ai-sdk/provider-utils@1.0.9
+- @ai-sdk/ui-utils@0.0.28
+
+## 0.0.32
+
+### Patch Changes
+
+- @ai-sdk/provider-utils@1.0.8
+- @ai-sdk/ui-utils@0.0.27
+
 ## 0.0.31
 
 ### Patch Changes
